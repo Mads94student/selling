@@ -1,0 +1,113 @@
+
+.pad {
+    padding: 30px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    }
+
+.mainImage{
+    width: 49%; 
+
+    /*STOP IMAGE FROM BEING DRAGGABLE: */
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.container .text1 {
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 34%;
+    width: 100%;
+    font-size: 44px;
+}
+.container .text2 {
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 48%;
+    width: 100%;
+    font-size: 24px;
+}
+
+
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 60%;
+    width: 100%;
+    color: black;
+
+}
+
+.container .button1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3em;
+    padding-right: 3em;
+    background-color: white;
+    border: 0px;
+    font-weight: bold;
+}
+
+
+.container .button2 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2em;
+    padding-right: 2rem;
+    background-color: white;
+    border: 0px;
+    font-weight: bold;
+}
+
+.buttonContainer .button1:hover {
+    transition-duration: 500ms;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.buttonContainer .button2:hover {
+    transition-duration: 500ms;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+@font-face {
+    font-family: Lobster;
+    src: url(../fonts/Lobster-Regular.ttf);
+
+}
+
+.Lobster {
+    font-family: Lobster;
+}
+
+@media screen and (max-width: 800px) {
+    .mainImage2{
+        display: none;
+    }
+    .mainImage1 {
+        width: 94%;
+
+    }
+    .container .text1 {
+        font-size: 36px;
+    }
+    .container .text2 {
+        font-size: 16px;
+    }
+}
