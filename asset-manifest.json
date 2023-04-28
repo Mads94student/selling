@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/selling/static/css/main.a450fac4.css",
-    "main.js": "/selling/static/js/main.5cfef0a9.js",
+    "main.css": "/selling/static/css/main.65d85c9f.css",
+    "main.js": "/selling/static/js/main.9c01af1f.js",
     "static/js/787.cda612ba.chunk.js": "/selling/static/js/787.cda612ba.chunk.js",
     "static/media/img1.png": "/selling/static/media/img1.e4383ade00019c7d8b10.png",
     "static/media/img3.png": "/selling/static/media/img3.b0b06cb2cc8d970b0775.png",
@@ -15,12 +15,12 @@
     "static/media/IndieFlower-Regular.ttf": "/selling/static/media/IndieFlower-Regular.04ac1f1c3b1959f18d06.ttf",
     "static/media/allbirds.png": "/selling/static/media/allbirds.f96f83824943761d6ea3.png",
     "index.html": "/selling/index.html",
-    "main.a450fac4.css.map": "/selling/static/css/main.a450fac4.css.map",
-    "main.5cfef0a9.js.map": "/selling/static/js/main.5cfef0a9.js.map",
+    "main.65d85c9f.css.map": "/selling/static/css/main.65d85c9f.css.map",
+    "main.9c01af1f.js.map": "/selling/static/js/main.9c01af1f.js.map",
     "787.cda612ba.chunk.js.map": "/selling/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a450fac4.css",
-    "static/js/main.5cfef0a9.js"
+    "static/css/main.65d85c9f.css",
+    "static/js/main.9c01af1f.js"
   ]
 }
