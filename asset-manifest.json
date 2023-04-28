@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/selling/static/css/main.a450fac4.css",
+    "main.js": "/selling/static/js/main.5cfef0a9.js",
+    "static/js/787.cda612ba.chunk.js": "/selling/static/js/787.cda612ba.chunk.js",
+    "static/media/img1.png": "/selling/static/media/img1.e4383ade00019c7d8b10.png",
+    "static/media/img3.png": "/selling/static/media/img3.b0b06cb2cc8d970b0775.png",
+    "static/media/img2.png": "/selling/static/media/img2.b28070b3c67150046774.png",
+    "static/media/Lobster-Regular.ttf": "/selling/static/media/Lobster-Regular.5078a2ac8066a58ac131.ttf",
+    "static/media/weath.jpeg": "/selling/static/media/weath.9ea4c5a31f0e3b99c94d.jpeg",
+    "static/media/city2.jpeg": "/selling/static/media/city2.770fe39a6819a5ea862a.jpeg",
+    "static/media/forestnew.jpg": "/selling/static/media/forestnew.c44ba5d21f12bc044222.jpg",
+    "static/media/randomguynew.jpg": "/selling/static/media/randomguynew.f1dea56f1982c21ee65e.jpg",
+    "static/media/CastoroTitling-Regular.ttf": "/selling/static/media/CastoroTitling-Regular.baead5ee069318eedb41.ttf",
+    "static/media/IndieFlower-Regular.ttf": "/selling/static/media/IndieFlower-Regular.04ac1f1c3b1959f18d06.ttf",
+    "static/media/allbirds.png": "/selling/static/media/allbirds.f96f83824943761d6ea3.png",
+    "index.html": "/selling/index.html",
+    "main.a450fac4.css.map": "/selling/static/css/main.a450fac4.css.map",
+    "main.5cfef0a9.js.map": "/selling/static/js/main.5cfef0a9.js.map",
+    "787.cda612ba.chunk.js.map": "/selling/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a450fac4.css",
+    "static/js/main.5cfef0a9.js"
+  ]
+}
